@@ -4,7 +4,6 @@ Microsoft security products offer great functionality and value, and are conside
 
 This high level article is meant to help understand how the different solutions in M365 and Azure security stack fit together.
 
-Based on the customer conversations and and implementation of Microsoft security offerings, I have put together a High Level Cybersecurity Architecture available at the below link.
 [Download the High Level Architecture PDF](https://github.com/EasySecOps/securityarchitecture/raw/main/High%20Level%20Cybersecurity%20Architecture.pdf)
 
 Naming convention
