@@ -15,3 +15,4 @@ If you found some of our solution names a bit hard to follow in the past, your d
 For more detailed reference architecture, visit Microsoft [architecture reference site](https://aka.ms/mcra)
 
 Please feel free to download and share the High Level Cybersecurity Architecture, and hit me up on [LinkedIn](https://www.linkedin.com/in/vikver/) to know more or discuss your cyber security priorities.
+![HighLevelArchitecture](https://github.com/EasySecOps/securityarchitecture/raw/main/HLA2.png?raw=true)
