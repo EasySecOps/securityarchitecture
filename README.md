@@ -1,4 +1,4 @@
-# securityarchitecture
+# Microsoft Cyber Security Architecture
 
 Microsoft security products offer great functionality and value, and are considered best-in-class by many standards, It covers the breadth of enterprise security needs and provide deep level of security across all domains.
 
